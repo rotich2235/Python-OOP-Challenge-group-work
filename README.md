@@ -65,19 +65,7 @@ class Pet:
         print(f"  Happiness: {self.happiness}/10\n")
 
 **main.py**
-# ==============================================
-# OOP Digital Pet Challenge - Virtual Pet Game
-# Group Members:
-# - Elias
-# - Hosanna
-# - Ali Abdi
-# - George
-# - Kelvin
-# - Rotich Elkana
-# - Sarah
-# - Lencer
-# - Kennedy
-# ==============================================
+
 
 from pet import Pet
 
